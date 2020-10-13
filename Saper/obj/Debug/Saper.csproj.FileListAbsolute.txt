@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\User\source\repos\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\User\source\repos\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.Form1.resources
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.pdb
+C:\Users\User\source\repos\Saper\Saper\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Saper\Saper\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\Saper\Saper\obj\Debug\Saper.csproj.CopyComplete
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Debug\System.ValueTuple.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Debug\System.ValueTuple.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.csproj.CopyComplete
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.RecordsForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.ChampionForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.GameForm.resources

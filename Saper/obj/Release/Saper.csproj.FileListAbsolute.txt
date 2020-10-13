@@ -1,0 +1,15 @@
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Release\Saper.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Release\Saper.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Release\Saper.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Release\System.ValueTuple.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\bin\Release\System.ValueTuple.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.csproj.CopyComplete
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.ChampionForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.GameForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Release\Saper.RecordsForm.resources
