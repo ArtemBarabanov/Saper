@@ -18,7 +18,7 @@ namespace Saper
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             GameForm form = new GameForm();
-            GamePresenter Presenter = new GamePresenter(form);
+            new GamePresenter(form);
             FileRecords FRecords = new FileRecords("Records.txt");
             Records.GetInstance(FRecords);
             Application.Run(form);

@@ -26,3 +26,18 @@ C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.RecordsForm.resources
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.ChampionForm.resources
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Saper\Saper\obj\Debug\Saper.GameForm.resources
+D:\PetProjects\Saper\Saper\bin\Debug\Saper.exe.config
+D:\PetProjects\Saper\Saper\bin\Debug\Saper.exe
+D:\PetProjects\Saper\Saper\bin\Debug\Saper.pdb
+D:\PetProjects\Saper\Saper\bin\Debug\System.ValueTuple.dll
+D:\PetProjects\Saper\Saper\bin\Debug\System.ValueTuple.xml
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.csproj.AssemblyReference.cache
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.ChampionForm.resources
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.GameForm.resources
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.RecordsForm.resources
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.csproj.CopyComplete
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.exe
+D:\PetProjects\Saper\Saper\obj\Debug\Saper.pdb
