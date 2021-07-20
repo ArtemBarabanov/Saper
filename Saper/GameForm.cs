@@ -400,7 +400,7 @@ namespace Saper
         public void AddNewRecord(string difficulty, string timerCount, string date)
         {
             ChampionForm Form = new ChampionForm();
-            ChampionPresenter Presenter = new ChampionPresenter(Form, difficulty, timerCount, date);
+            new ChampionPresenter(Form, difficulty, timerCount, date);
             Form.ShowDialog();
         }
 
